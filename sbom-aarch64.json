@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-14T19:57:57Z",
+  "generated": "2026-10-18T08:21:59Z",
   "image": "lightcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.8.0",
+      "app_version": "0.9.1",
       "arch": "aarch64",
-      "generated": "2026-10-14T19:57:30Z",
+      "generated": "2026-10-18T08:21:27Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -259,7 +259,7 @@
               "MPL20"
             ],
             "name": "ca_root_nss",
-            "version": "3.130"
+            "version": "3.131"
           },
           {
             "licenses": [
