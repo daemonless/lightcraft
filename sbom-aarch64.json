@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-21T14:33:29Z",
+  "generated": "2026-10-21T22:36:57Z",
   "image": "lightcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.10.0",
+      "app_version": "0.11.0",
       "arch": "aarch64",
-      "generated": "2026-10-21T14:32:56Z",
+      "generated": "2026-10-21T22:36:24Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
